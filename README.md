@@ -1,5 +1,5 @@
 # Hệ Thống Đặt Hàng Thời Trang Trực Tuyến
-Đây là đồ án môn Phân Tích Thiết Kế Hệ Thống Thông Tin, được thực hiện bởi nhóm sinh viên Khoa Công Nghệ Thông Tin - Trường Đại học Công Nghiệp TP.HCM.
+Đây là đồ án môn Phân Tích Thiết Kế Hệ Thống, Khoa Công Nghệ Thông Tin - Trường Đại học Công Nghiệp TP.HCM.
 
 **1. Mục tiêu dự án**
 + Xây dựng một hệ thống đặt hàng trực tuyến cho cửa hàng thời trang, hỗ trợ các hoạt động:
