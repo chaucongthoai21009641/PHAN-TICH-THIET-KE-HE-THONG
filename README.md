@@ -1,4 +1,4 @@
-# Hệ Thống Đặt Hàng Thời Trang Trực Tuyến
+# DỰ ÁN: HỆ THỐNG ĐẶT HÀNG THỜI TRANG TRỰC TUYẾN
 Đây là đồ án môn Phân Tích Thiết Kế Hệ Thống, Khoa Công Nghệ Thông Tin - Trường Đại học Công Nghiệp TP.HCM.
 
 **1. Mục tiêu dự án**
