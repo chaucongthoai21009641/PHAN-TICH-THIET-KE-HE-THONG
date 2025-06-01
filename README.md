@@ -1,2 +1,19 @@
-# PHÂN TÍCH THIẾT KẾ HỆ THỐNG 
-Xác định các function &amp; non-function, viết các quy trình và quy tắc nghiệp vụ, vẽ sơ đồ và đặc tả usecase, vẽ activity, sequence, thiết kế testcase - Khoa CNTT  trường Đại học Công Nghiệp TPHCM.
+# Hệ Thống Đặt Hàng Thời Trang Trực Tuyến
+Đây là đồ án môn Phân Tích Thiết Kế Hệ Thống Thông Tin, được thực hiện bởi nhóm sinh viên Khoa Công Nghệ Thông Tin - Trường Đại học Công Nghiệp TP.HCM.
+
+**1. Mục tiêu dự án**
++ Xây dựng một hệ thống đặt hàng trực tuyến cho cửa hàng thời trang, hỗ trợ các hoạt động:
++ Tìm kiếm, đặt hàng và thanh toán sản phẩm online
++ Quản lý giỏ hàng, đánh giá sản phẩm, nhận thông báo
++ Quản lý đơn hàng, kho, nhân viên, nhà cung cấp và các ưu đãi
+
+**2. Chức năng nổi bật**
++ Giao diện dễ sử dụng, tương thích đa thiết bị
++ Phân quyền người dùng: Khách hàng, Nhân viên, Quản trị viên
++ Sơ đồ Use Case, Activity, Sequence được thiết kế đầy đủ
+
+**Tài liệu bao gồm:**
++ Yêu cầu chức năng & phi chức năng
++ Đặc tả các Use Case
++ Mô hình hóa hệ thống (Use Case, Activity, Sequence Diagram, Class Diagram, CSDL quan hệ)
++ Mô tả nghiệp vụ từ khảo sát thực tế
