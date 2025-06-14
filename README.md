@@ -17,3 +17,5 @@
 + Đặc tả các Use Case
 + Mô hình hóa hệ thống (Use Case, Activity, Sequence Diagram, Class Diagram, CSDL quan hệ)
 + Mô tả nghiệp vụ từ khảo sát thực tế
+
+Ngoài ra trong folder là chứa các bài thực hành về những case study trong quá trình học.
